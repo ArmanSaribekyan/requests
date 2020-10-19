@@ -27,5 +27,5 @@ class YaUploader:
 
 
 if __name__ == '__main__':
-    uploader = YaUploader('<Your Yandex Disk token')
+    uploader = YaUploader('<Your Yandex Disk token>')
     result = uploader.upload('/superhero.py')

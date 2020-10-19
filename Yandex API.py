@@ -2,7 +2,7 @@
 # from pprint import pprint
 #
 #
-# TOKEN = "AgAAAAA0U09uAADLWwmQiO8kgUzHqNeIgumhqGk"
+# TOKEN = "<Your Yandex Disk token>"
 # HEADERS = {"Authorization": f'OAuth {TOKEN}'}
 # file = "/superhero.py"
 #
